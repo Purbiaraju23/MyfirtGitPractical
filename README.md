@@ -15,3 +15,22 @@ class TechStack:
         self.embedded = ['Raspberry Pi']
 
 rajupurbia = TechStack()
+
+Journey of Exploration 🚀
+🖥️ Mastering the art of Python Programming
+🌐 Crafting engaging web experiences with HTML, CSS, and JavaScript
+📊 Analyzing data and extracting insights through Data Science techniques
+🤖 Exploring the fascinating world of Machine Learning and AI
+📈 Visualizing data stories with SAP Analytics Cloud and Power BI
+🍓 Tinkering with Raspberry Pi for embedded projects
+
+
+def create_art_with_code():
+    canvas = Canvas(width=800, height=600)
+    canvas.set_background_color('black')
+    
+    # Your creative code here
+    
+    canvas.display()
+
+create_art_with_code()
