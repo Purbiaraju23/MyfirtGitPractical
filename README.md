@@ -27,9 +27,7 @@ rajupurbia = TechStack()
 def create_art_with_code():
     canvas = Canvas(width=800, height=600)
     canvas.set_background_color('black')
-    
     # Your creative code here
-    
     canvas.display()
-
 create_art_with_code()
+
